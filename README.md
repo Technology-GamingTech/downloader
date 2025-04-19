@@ -12,7 +12,8 @@
 - When Install Open it an type `pkg update && pkg upgrade
 pkg install git python ffmpeg -y
 pip install yt-dlp`
-- When Complete `git clone https://github.com/Technology-GamingTech/downloader
-cd downloaderbot`
+- When Complete `git clone https://github.com/Technology-GamingTech/downloader`
+- Now `cd downloaderbot`
+- At end **`python downloader.py`**
 
 
