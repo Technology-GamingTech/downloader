@@ -13,7 +13,7 @@
 | pkg install git python ffmpeg -y
 | pip install yt-dlp`or Directly `pip install requirments.txt`
 - When Complete `git clone https://github.com/Technology-GamingTech/downloader`
-- Now `cd downloaderbot`
-- At end **`python downloader.py`**
+- Now `cd downloader`
+- At end **`python mobile.py`**
 
 
