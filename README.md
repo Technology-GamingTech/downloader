@@ -14,6 +14,7 @@
 | pip install yt-dlp`or Directly `pip install requirments.txt`
 - When Complete `git clone https://github.com/Technology-GamingTech/downloader`
 - Now `cd downloader`
+- Before Starting this run one `command termux-setup-storage` , Allow popup shown allow it.
 - At end **`python mobile.py`**
 
 
